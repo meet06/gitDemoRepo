@@ -1,3 +1,4 @@
+package collectionconcept;
 import java.util.ArrayList;
 
 public class ArrayDemo {
@@ -14,6 +15,7 @@ public class ArrayDemo {
 		a.add("ajay");
 		a.add("ram");
 		a.add("mohan");
+		a.add("Manish");
 		System.out.println(a);
 	}
 
