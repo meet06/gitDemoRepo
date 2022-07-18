@@ -6,6 +6,7 @@ public class Amit {
 		// TODO Auto-generated method stub
 		System.out.println("amit code runing.....");
 		System.out.println("amit code runing manish.....");
+		System.out.println("HELLO SHAKTI IS HERE");
 	}
 
 }
